@@ -45,11 +45,9 @@
       </fileDesc>
       <encodingDesc>
          <refsDecl n="CTS">
-            <cRefPattern n="section"
-                         matchPattern="(.+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@n='$1'])"/>
+            <citeStructure unit="division" match="/TEI/text/body/div[@type='edition']/div" use="@n">
+            </citeStructure>
          </refsDecl>
-         <citeStructure unit="division" match="/TEI/text/body/div[@type='edition']/div" use="@n"></citeStructure>
          <editorialDecl>
             <interpretation>
                <p>
