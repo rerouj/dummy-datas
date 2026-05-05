@@ -45,7 +45,7 @@
       </fileDesc>
       <encodingDesc>
          <refsDecl n="CTS">
-            <citeStructure unit="division" match="/TEI/text/body/div[@type='edition']/div" use="@n">
+            <citeStructure unit="division" match="//div[@type='edition']/div" use="@n">
             </citeStructure>
          </refsDecl>
          <editorialDecl>
