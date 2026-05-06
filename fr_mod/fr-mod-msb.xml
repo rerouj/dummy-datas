@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Histoire 1 (Fr modern) - Berne 111</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="B">
+				<msIdentifier>
+					<country>Suisse</country>
+					<settlement>Lausanne</settlement>
+					<repository>BCU</repository>
+					<collection />
+					<idno>1</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<p>
+            <milestone unit="chapitre" n="1" />
+            Le train entra lentement dans la gare de Rome sous une lumière dorée de fin d’après-midi. Léa regardait par la fenêtre avec une attention silencieuse. C’était la première fois qu’elle venait en Italie, et encore plus à Rome. Elle avait souvent imaginé cette ville à travers les livres d’histoire et les films, mais la voir apparaître devant elle, réelle et vivante, provoquait en elle une émotion difficile décrire.
+            En descendant du train, elle sentit immédiatement une chaleur douce et un parfum mêlé de pierre ancienne et de café. La gare était animée, pleine de voix, de gestes, de valises qui roulaient sur le sol. Pourtant, malgré ce tumulte, Léa se sentait étrangement calme. Elle avait quitté Paris sans trop réfléchir, avec seulement une petite valise et un carnet vide. Elle voulait écrire, mais surtout comprendre quelque chose qu’elle ne savait pas encore nommer nommer.
+            Elle prit un taxi pour rejoindre une petite pension dans le quartier du Trastevere. Le chauffeur parlait peu, mais il souriait souvent. Par la fenêtre, Léa découvrait des rues étroites, des bâtiments aux couleurs chaude, des balcons fleuris. Chaque coin semblait raconter une histoire.
+            Arrivée à la pension, elle fut accueillie par une femme âgée, Maria, qui lui donna une clé et quelques conseils simple. La chambre était modeste, avec un lit, une table, et une fenêtre donnant sur une petite rue pavée. Léa posa sa valise, ouvrit la fenêtre et respira profondément.
+            Le soir venu, elle sortit marcher. Sans plan, sans objectif objectif. Elle suivait simplement les rues, attirée par la lumière des lampadaires et les sons de la ville. Elle passa devant des restaurants remplis de rires, des places où des enfants jouaient encore, et des fontaines qui murmuraient doucement.
+            C’est sur une petite place qu’elle s’arrêta. Il y avait un musicien qui jouait du violon. La mélodie était lente, presque triste, mais belle. Léa s’assit sur un banc et écouta. À cet instant, elle sentit qu’elle était exactement là où elle devait être.
+
+            <milestone unit="chapitre" n="2" />
+            Le lendemain matin, Léa se réveilla tôt. La lumière du soleil traversait les rideaux et dessinait des formes sur les murs. Elle prit son carnet et écrivit quelques lignes, sans vraiment réfléchir réfléchir. Puis elle sortit.
+            Sa première destination fut le Colisée. Elle avait vu des images mille fois, mais le voir en vrai était différent. Les pierres semblaient vivantes, chargées de siècles d’histoires. Elle marcha lentement autour du monument, touchant parfois les murs comme pour sentir leur mémoire.
+            Un guide parlait à un groupe de touristes. Léa s’approcha discrètement pour écouter. Il racontait les combats, les foules, les cris. Léa imaginait les scènes, mais ce qui la frappait le plus, c’était le silence actuel. Ce lieu autrefois rempli de bruit était maintenant calme, presque paisible paisible.
+            Elle continua vers le Forum romain. Là, les ruines s’étendaient sous le soleil. Des colonnes brisées, des arches, des chemins ancien. Léa se sentait petite face à tout cela. Elle s’assit sur une pierre et observa.
+            C’est là qu’elle rencontra Luca. Il était en train de dessiner dans un carnet. Curieuse, Léa lui demanda ce qu’il faisait. Il leva les yeux et lui sourit. Il parlait français avec un léger accent. Il expliqua qu’il était étudiant en architecture et qu’il venait souvent ici pour dessiner les structures ancienne.
+            Ils commencèrent à parler. Luca lui raconta comment Rome était une ville de couches, où chaque époque recouvrait la précédente. Léa aimait cette idée. Elle lui dit qu’elle écrivait, ou du moins qu’elle essayait.
+            Ils passèrent plusieurs heures à marcher ensemble. Luca lui montra des détails qu’elle n’aurait jamais remarqués seule : une inscription presque effacée, une forme particulière dans une colonne, une perspective cachée.
+            En fin de journée, ils s’assirent sur une colline avec une vue sur la ville. Le soleil se couchait lentement. Léa sentit une connexion simple et naturelle avec Luca. Ce n’était pas compliqué, pas pressé. Juste une rencontre rencontre.
+
+            <milestone unit="chapitre" n="3" />
+            Les jours suivants, Léa et Luca se retrouvèrent souvent. Parfois ils visitaient des lieux célèbres, parfois ils se perdaient volontairement dans des quartiers moins connus connus.
+            Ils allèrent voir la fontaine de Trevi tôt le matin, avant la foule. L’eau brillait sous la lumière douce, et Léa jeta une pièce en souriant. Luca lui expliqua la tradition, mais elle connaissait déjà l’histoire. Pourtant, le geste avait quelque chose de sincère.
+            Ils passèrent une journée entière au Vatican. Léa était impressionnée par l’immensité et les détails. Elle marchait lentement, levant souvent les yeux vers les plafonds. Luca, lui, observait les structures, les proportions proportions. Ils voyaient les choses différemment, mais cela les rapprochait.
+            Un soir, ils dînèrent dans une petite trattoria. La nourriture était simple, mais délicieuse. Ils parlèrent longtemps, de leurs vies, de leurs choix, de leurs doutes. Léa confia qu’elle ne savait pas vraiment ce qu’elle cherchait en venant à Rome. Luca répondit que parfois, on ne trouve pas une réponse, mais une direction direction.
+            Léa écrivait chaque jour dans son carnet. Ses textes devenaient plus longs, plus clairs. Elle ne cherchait plus à être parfaite, elle écrivait simplement ce qu’elle ressentait.
+            Un après-midi, ils allèrent au bord du Tibre. Ils restèrent silencieux pendant un long moment. Le fleuve coulait lentement, indifférent au temps. Léa pensa à sa vie à Paris, à ses habitudes, à ses peurs. Ici, tout semblait différent.
+            Elle comprit qu’elle avait besoin de changement. Pas forcément spectaculaire, mais réel. Rome lui montrait une autre façon de vivre, plus lente, plus attentive attentive.
+
+            <milestone unit="chapitre" n="4" />
+            Le temps passa vite. Trop vite. Léa devait bientôt repartir. Cette idée la rendait triste, mais aussi reconnaissante. Elle savait que ce voyage avait changé quelque chose en elle.
+            La veille de son départ, elle retrouva Luca une dernière fois. Ils marchèrent sans parler, comme au début. Ils passèrent par la petite place où elle avait entendu le violoniste le premier soir. Il était là encore, jouant une mélodie différente différente.
+            Ils s’assirent sur le même banc. Léa regarda autour d’elle. Tout semblait à la fois familier et nouveau. Elle se tourna vers Luca et le remercia. Pas seulement pour les visites, mais pour sa présence.
+            Luca lui dit qu’elle devait continuer à écrire. Que c’était important. Léa hocha la tête.
+            Le lendemain, elle fit sa valise. Elle regarda une dernière fois la chambre, la fenêtre, la rue. Maria lui dit au revoir avec un sourire chaleureux.
+            Dans le train, Léa ouvrit son carnet. Elle relut ses pages. Elle n’avait pas toutes les réponses, mais elle avait une histoire. Et surtout, elle avait envie de continuer.
+            Alors que le train quittait Rome, elle écrivit une nouvelle phrase :
+            « Ce n’est pas la ville que je quitte, c’est une version de moi que je laisse derrière. »
+            Et pour la première fois depuis longtemps, elle se sentait prête pour la suite la suite.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>
